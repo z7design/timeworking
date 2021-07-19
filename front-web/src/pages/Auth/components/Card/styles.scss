@@ -1,0 +1,55 @@
+.auth-card {
+    padding:95px 50px 50px 50px ;
+    border-radius: 20px;
+    width: 550px;
+
+}
+.auth-card-title {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #263238;
+}
+.login-form {
+    margin-top: 80px;
+}
+.login-link-recover{
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.015em;
+    color: #EB5757;
+    mix-blend-mode: normal;
+    margin-top: 15px;
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    text-transform: initial;
+}
+.login-submit {
+    margin-top: 100px;
+    margin-bottom: 35px;
+}
+
+.not-registered{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #9E9E9E;
+    text-transform: initial;
+}
+.login-link-register {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    text-decoration-line: underline;
+    color: #EB5757;
+    margin-left: 10px;
+    text-decoration: none;
+}

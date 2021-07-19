@@ -1,0 +1,47 @@
+.driver-details-container{
+    margin-top: 40px;
+}
+.driver-details{
+    padding: 50px 60px 90px 60px;
+    margin-top: 20px;
+}
+.icon-goback {
+    color: #CF6F64;
+    transform: rotate(-180deg);
+    margin-right: 30px;
+}
+.driver-details-link{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.text-goback{
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing: -0.015em;
+    color: #263238;
+    mix-blend-mode: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.driver-details-card {
+    border: 1px solid #E1E1E1;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.product-details-image{
+    padding: 15px;
+    width: 353px;
+    height: 353px;
+
+}
+.driver-details-card{ 
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.015em;
+    color: #9E9E9E;
+}
+.driver-description-title{
+    margin-top: 20px;
+}
